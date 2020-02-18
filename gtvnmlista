@@ -1,7 +1,2 @@
-#EXTM3U
-#EXTINF:-1 type="stream" tvg-id="ESPN BRASIL" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPORTES",ESPN BRASIL
+#EXTINF:0, ESPN BRASIL
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPORTES",ESPN
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/espn_887309d0_2b964684a0e96e45ac20430e584f55ca024a5285/playlist.m3u8
-#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPORTES",ESPN 2
-https://live.multicanais.com/live/espnmaishd/video.m3u8?md5=eOButVGYvEk2I3Jk9vKIXw&expires=1582053620
