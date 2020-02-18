@@ -38,13 +38,10 @@ http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_6c690152b2
 http://edge-aws.aovivo.club/hls/s:88.198.239.170/comedycentral_17037754_8708581cb172271474f0872b32ce527566de7b30/playlist.m3u8
 
 #EXTINF:0, DAZN
+https://live.multicanais.com/mylive/canaldazn/video.m3u8?md5=3sy_iA8CSMmzRVlfvyLA-A&expires=1582059718
 
-
-#EXTINF:0, DAZN
-
-
-#EXTINF:0, DAZN
-
+#EXTINF:0, DAZN 2
+https://live.multicanais.com/mylive/canaldazn2/video.m3u8?md5=ItdVi6AwStG7gW6ReYsvTg&expires=1582059751
 
 #EXTINF:0, DISCOVERY CHANNEL
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverychannel_af3e1334_8f7546892edd490b1c19ccc55b494c0600c127c7/playlist.m3u8
