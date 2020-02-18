@@ -14,7 +14,7 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/axn_cb7a1d77_bbc0bf07a2b97ec960d
 http://edge-aws.aovivo.club/hls/s:88.198.239.170/band_49e3d046_ae048732b3885a36b3bd460942ebd3b0539dbb5c/playlist.m3u8
 
 #EXTINF:0, BAND NEWS
-
+http://edge-aws.aovivo.club/hls/s:88.198.163.51/bandnews_aee544ce_afbfe65764b0dac0a861d9c8e7b1dd6920f3e79f/playlist.m3u8
 
 #EXTINF:0, BAND SPORTS
 
@@ -23,7 +23,7 @@ http://edge-aws.aovivo.club/hls/s:88.198.239.170/band_49e3d046_ae048732b3885a36b
 
 
 #EXTINF:0, BOOMERANG
-
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/boomerang_2659fc51_401921234b042fde0ee705b58705fec43c7fe48b/playlist.m3u8
 
 #EXTINF:0, CARTOON NETWORK
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/cartoonnetwork_511a418e_9dbebdcb82fc0e8c9b27f5d5b51fb4d72467ae0a/playlist.m3u8
@@ -35,7 +35,7 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/cartoonnetwork_511a418e_9dbebdcb
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_6c690152b25ab5ba625e92a622ccd8c9f8786248/playlist.m3u8
 
 #EXTINF:0, COMEDY CENTRAL
-
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/comedycentral_17037754_8708581cb172271474f0872b32ce527566de7b30/playlist.m3u8
 
 #EXTINF:0, DAZN
 
@@ -47,25 +47,25 @@ http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_6c690152b2
 
 
 #EXTINF:0, DISCOVERY CHANNEL
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverychannel_af3e1334_8f7546892edd490b1c19ccc55b494c0600c127c7/playlist.m3u8
 
 #EXTINF:0, DISCOVERY KIDS
-
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/discoverykids_80e28a51_b04515b6d7057c48f89cc121b366bf7a7f559bff/playlist.m3u8
 
 #EXTINF:0, DISCOVERY WORLD
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryworld_68b79337_c3a4a23819f8fd5311c385b2572f2f446570bd35/playlist.m3u8
 
 #EXTINF:0, DISNEY CHANNEL
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/disneychannel_a9334987_b678ceec1481c76c2e154e974bcbe7100470a857/playlist.m3u8
 
 #EXTINF:0, DISNEY JUNIOR
 
 
 #EXTINF:0, DISNEY XD
-
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/disneyxd_d094700e_1d81d2c6c8f6d3a9c5a9a418691b41ddd14cd5db/playlist.m3u8
 
 #EXTINF:0, ESPN
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/espn_887309d0_2b964684a0e96e45ac20430e584f55ca024a5285/playlist.m3u8
 
 #EXTINF:0, ESPN 2
 
@@ -95,7 +95,7 @@ http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/foxsports2_fc8d9e6e_3f14503
 
 
 #EXTINF:0, FX
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fx_667be543_79b27b895549d9588615c9b1f4ff821316e0f5f3/playlist.m3u8
 
 #EXTINF:0, GLOBO
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_50c5a878c13bfe27e7cb7e1b4f0b79939440efd3/playlist.m3u8
@@ -107,7 +107,7 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_50c5a878c13bfe2
 
 
 #EXTINF:0, GLOBO NEWS
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globonews_dc685e2c_0c62ada5b4a5bacf95b9963a18a6bd14c034e6e6/playlist.m3u8
 
 #EXTINF:0, GLOBO RIO DE JANEIRO
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_b604c91a3ce0bc668ac52b3e984f82cffe745ce5/playlist.m3u8
@@ -116,37 +116,40 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_b604c91a3ce0b
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_50c5a878c13bfe27e7cb7e1b4f0b79939440efd3/playlist.m3u8
 
 #EXTINF:0, GLOOB
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/gloob_04f1241e_bf6bed841eb9ede917ec6a3872aa6a907d8d0f1b/playlist.m3u8
 
 #EXTINF:0, GNT
-
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/gnt_c439c60b_8754d955b03263f135dcc100a5c6fe4fe4f3c046/playlist.m3u8
 
 #EXTINF:0, HBO
 
 
 #EXTINF:0, HBO 2
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbo2720p_05a53e36_e959a5f26625e64befabd6a7c33c7c9b42340855/playlist.m3u8
 
 #EXTINF:0, HBO FAMILY
-
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/hbofamily_536fb693_1c31de31e85301f10e5136e88c20322bd990de52/playlist.m3u8
 
 #EXTINF:0, HBO PLUS
-
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/hboplus480p_17820ac1_6ba89f912809743a49f8637af9b91d70c7a9cc20/playlist.m3u8
 
 #EXTINF:0, HBO SIGNATURE
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbosignature720p_fa1a6512_afcac4c7ce8b1afacbef4fb16e3a847f00b9da1f/playlist.m3u8
 
 #EXTINF:0, HISTORY CHANNEL
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/history_b7eb6c68_adeb2cca1a5b053dc09832b5323af4f63114ec27/playlist.m3u8
 
-
-#EXTINF:0, MAX UP
-
+#EXTINF:0, MAX PRIME
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/maxprime_9c676e00_c6117b52d926398f11e864369d4137bea3089a0a/playlist.m3u8
 
 #EXTINF:0, MEGAPIX
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/megapix_a6f16ab4_c9f21986b052684fb745778b8dabc481262a47c6/playlist.m3u8
 
+#EXTINF:0, MULTISHOW
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/multishow_5f573b82_8d1436da0ad1e384fc94037de6046e4ad9ca859c/playlist.m3u8
 
 #EXTINF:0, NATGEO
-
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/nationalgeographic_2e01e174_fa0e0648128ba5a18dfd2ac999d1ad219cd9f113/playlist.m3u8
 
 #EXTINF:0, NATGEO KIDS
 
@@ -155,28 +158,28 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_50c5a878c13bfe2
 
 
 #EXTINF:0, NICK JR
-
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/nickjr_54ceb912_b923d7274623d7a8c083a23bdde1088264c67c8c/playlist.m3u8
 
 #EXTINF:0, NICKELODEON
 
 
 #EXTINF:0, PARAMOUNT
-
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/paramountchannel_efa260ad_6114cafac5a361246899be024cd88fb8d9aafc0e/playlist.m3u8
 
 #EXTINF:0, PREMIERE 2
-
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/premiere2_f5b68d74_0b5553f3e2fd7ef290a98e4e524425ff08f9d9bb/playlist.m3u8
 
 #EXTINF:0, PREMIERE 3
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiere3_b903ea63_54b3acaf8b4160c3ce5b0d6f859833f95e003932/playlist.m3u8
 
 #EXTINF:0, PREMIERE 4
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiere4_142e9ae3_a98fe701dc27704060ef22c97481e4778e71336d/playlist.m3u8
 
 #EXTINF:0, PREMIERE 5
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere5_0486ffb0_7f67999b8d4b9fed65cf6ef919d0af55a19526ec/playlist.m3u8
 
 #EXTINF:0, PREMIERE 6
-
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiere6_8a279e5c_84b1d09d5b748598c8efe4a5f7c1568342eb824d/playlist.m3u8
 
 #EXTINF:0, PREMIERE 7
 
@@ -191,13 +194,16 @@ http://edge-aws.aovivo.club/hls/s:88.198.239.170/premiereclubes_3f1522d0_603f32d
 
 
 #EXTINF:0, RECORD NEWS
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/recordnews_620807a1_53c7bb38756d9351f4360d831bfabba5b33991cb/playlist.m3u8
 
+#EXTINF:0, REDE BRASIL
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/redebrasil_c2548064_76168a9561a342801e42fac9b8a9925eaa3d47fe/playlist.m3u8
 
 #EXTINF:0, REDETV
-
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/redetv_45cbe19f_1de8354df9cb6d18ae2cdba65122a146d6c49a2f/270p/chunklist.m3u8
 
 #EXTINF:0, SBT
-
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/sbtsp_2a5ac580_98d88917bb0256287fcb36909d0d93beade79a22/playlist.m3u8
 
 #EXTINF:0, SBT PE
 
@@ -206,7 +212,7 @@ http://edge-aws.aovivo.club/hls/s:88.198.239.170/premiereclubes_3f1522d0_603f32d
 http://edge-aws.aovivo.club/hls/s:88.198.239.170/space_e6c3dd63_4a5540f1de79a1f434592c3d450bd83ee9d151a9/playlist.m3u8
 
 #EXTINF:0, SPORTV
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_f0bbd0fa0f498257e2811730e0d2363201f6c3cb/playlist.m3u8
 
 #EXTINF:0, SPORTV 2
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2_22ab0e43_21cd6e73034d9b4532d12a36e8adbe160b969269/playlist.m3u8
@@ -215,7 +221,7 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2_22ab0e43_21cd6e73034d9
 
 
 #EXTINF:0, SYFY
-
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/syfy_097ccd4f_110a987f14de6afd8fb04efe315661f8a31964a8/playlist.m3u8
 
 #EXTINF:0, TELECINE ACTION
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineaction_be057d4c_8cd315d7f7955e735657ec4f228366e41ba51f85/playlist.m3u8
@@ -239,7 +245,7 @@ http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tnt_9109c85a_87a56074eddc0f
 http://edge-aws.aovivo.club/hls/s:88.198.239.170/tntseries_3bb18d9a_53910085c4fdb3d34bd60cf5698e062bbe0a0789/playlist.m3u8
 
 #EXTINF:0, TOONCAST
-
+http://edge-aws.aovivo.club/hls/s:88.198.163.51/tooncast_8effee40_380e165726b9359e6a06508421aa0f4d7838dd8a/playlist.m3u8
 
 #EXTINF:0, TV APARECIDA
 
@@ -251,14 +257,14 @@ http://edge-aws.aovivo.club/hls/s:88.198.239.170/tntseries_3bb18d9a_53910085c4fd
 
 
 #EXTINF:0, TV CULTURA
-
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/tvculturahd_ef7de0b7_b281cac43109430ce63cacfb65968682d2627555/280p_850kbit/chunklist.m3u8
 
 #EXTINF:0, UNIVERSAL CHANNEL
-
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/universalchannel_8290abc6_bb0e2ee7f3668f5a29a71262d75cfb3ad83f7e12/playlist.m3u8
 
 #EXTINF:0, VIVA
-
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/viva_5d00f2c6_0c6e6c9e2527ca0964b65cdcbc6fdd3958f3ec70/playlist.m3u8
 
 #EXTINF:0, WARNER CHANNEL
-
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/warnerchannel_0a57cb53_8ecfeaa9f908464d9a7813740e3164d5bf6b29e8/playlist.m3u8
 
