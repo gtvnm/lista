@@ -1,2 +1,5 @@
 #EXTINF:0, ESPN BRASIL
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,SPORTV
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_f0bbd0fa0f498257e2811730e0d2363201f6c3cb/playlist.m3u8
