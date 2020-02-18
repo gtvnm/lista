@@ -1,5 +1,258 @@
-#EXTINF:0, ESPN BRASIL
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, A&E
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_ec56a93e0e8fef79232e8d8c1f67d17eff3d1f9d/playlist.m3u8
 
-#EXTINF:0,SPORTV
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_f0bbd0fa0f498257e2811730e0d2363201f6c3cb/playlist.m3u8
+#EXTINF:0, AMC BRASIL
+
+
+#EXTINF:0, ANIMAL PLANET
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/animalplanet_e114c448_82ca86ff92a639f20162fa5e0b70dcb8ab259521/playlist.m3u8
+
+#EXTINF:0, AXN
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/axn_cb7a1d77_bbc0bf07a2b97ec960d2e39b7a666c2dd968f12a/playlist.m3u8
+
+#EXTINF:0, BAND
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/band_49e3d046_ae048732b3885a36b3bd460942ebd3b0539dbb5c/playlist.m3u8
+
+#EXTINF:0, BAND NEWS
+
+
+#EXTINF:0, BAND SPORTS
+
+
+#EXTINF:0, BBB
+
+
+#EXTINF:0, BOOMERANG
+
+
+#EXTINF:0, CARTOON NETWORK
+
+
+#EXTINF:0, CINEMAX
+
+
+#EXTINF:0, COMEDY CENTRAL
+
+
+#EXTINF:0, DAZN
+
+
+#EXTINF:0, DAZN
+
+
+#EXTINF:0, DAZN
+
+
+#EXTINF:0, DISCOVERY CHANNEL
+
+
+#EXTINF:0, DISCOVERY KIDS
+
+
+#EXTINF:0, DISCOVERY WORLD
+
+
+#EXTINF:0, DISNEY CHANNEL
+
+
+#EXTINF:0, DISNEY JUNIOR
+
+
+#EXTINF:0, DISNEY XD
+
+
+#EXTINF:0, ESPN
+
+
+#EXTINF:0, ESPN 2
+
+
+#EXTINF:0, ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0, ESPORTE INTERATIVO
+
+
+#EXTINF:0, FOX
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_bc479ea62b2e7e78513569950a68760562e7992b/playlist.m3u8
+
+#EXTINF:0, FOX PREMIUM
+
+
+#EXTINF:0, FOX PREMIUM 2
+
+
+#EXTINF:0, FOX SPORTS
+
+
+#EXTINF:0, FOX SPORTS 2
+
+
+#EXTINF:0, FUTURA
+
+
+#EXTINF:0, FX
+
+
+#EXTINF:0, GLOBO BRASILIA
+
+
+#EXTINF:0, GLOBO NORDESTE
+
+
+#EXTINF:0, GLOBO NEWS
+
+
+#EXTINF:0, GLOBO RIO DE JANEIRO
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_b604c91a3ce0bc668ac52b3e984f82cffe745ce5/playlist.m3u8
+
+#EXTINF:0, GLOBO SÃO PAULO
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_50c5a878c13bfe27e7cb7e1b4f0b79939440efd3/playlist.m3u8
+
+#EXTINF:0, GLOOB
+
+
+#EXTINF:0, GNT
+
+
+#EXTINF:0, HBO
+
+
+#EXTINF:0, HBO 2
+
+
+#EXTINF:0, HBO FAMILY
+
+
+#EXTINF:0, HBO PLUS
+
+
+#EXTINF:0, HBO SIGNATURE
+
+
+#EXTINF:0, HISTORY CHANNEL
+
+
+#EXTINF:0, MAX UP
+
+
+#EXTINF:0, MEGAPIX
+
+
+#EXTINF:0, NATGEO
+
+
+#EXTINF:0, NATGEO KIDS
+
+
+#EXTINF:0, NATGEO WILD
+
+
+#EXTINF:0, NICK JR
+
+
+#EXTINF:0, NICKELODEON
+
+
+#EXTINF:0, PARAMOUNT
+
+
+#EXTINF:0, PREMIERE 2
+
+
+#EXTINF:0, PREMIERE 3
+
+
+#EXTINF:0, PREMIERE 4
+
+
+#EXTINF:0, PREMIERE 5
+
+
+#EXTINF:0, PREMIERE 6
+
+
+#EXTINF:0, PREMIERE 7
+
+
+#EXTINF:0, PREMIERE 8
+
+
+#EXTINF:0, PREMIERE FC
+
+
+#EXTINF:0, RECORD
+
+
+#EXTINF:0, RECORD NEWS
+
+
+#EXTINF:0, REDETV
+
+
+#EXTINF:0, SBT
+
+
+#EXTINF:0, SBT PE
+
+
+#EXTINF:0, SPACE
+
+
+#EXTINF:0, SPORTV
+
+
+#EXTINF:0, SPORTV 2
+
+
+#EXTINF:0, SPORTV 3
+
+
+#EXTINF:0, SYFY
+
+
+#EXTINF:0, TELECINE ACTION
+
+
+#EXTINF:0, TELECINE CULT
+
+
+#EXTINF:0, TELECINE PIPOCA
+
+
+#EXTINF:0, TELECINE PREMIUM
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/telecinepremium_a929eb33_d4109f39e5e5d29022623e04b1676015012f597d/playlist.m3u8
+
+#EXTINF:0, TELECINE TOUCH
+
+
+#EXTINF:0, TNT
+
+
+#EXTINF:0, TNT SERIES
+
+
+#EXTINF:0, TOONCAST
+
+
+#EXTINF:0, TV APARECIDA
+
+
+#EXTINF:0, TV BRASIL
+
+
+#EXTINF:0, TV CAMARA
+
+
+#EXTINF:0, TV CULTURA
+
+
+#EXTINF:0, UNIVERSAL CHANNEL
+
+
+#EXTINF:0, VIVA
+
+
+#EXTINF:0, WARNER CHANNEL
+
+
