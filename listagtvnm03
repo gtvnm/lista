@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FullHD¹" tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="FILMES E SÉRIES",A&E FullHD¹
+#EXTINF:-1 tvg-id="A&E" tvg-name="Record TV" tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="FILMES E SÉRIES",Record TV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="Globo" tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="FILMES E SÉRIES",Globo
+https://cdn.esporteone.com/GLOBONORHD/video.m3u8
